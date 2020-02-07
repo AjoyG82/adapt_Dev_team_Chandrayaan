@@ -1,16 +1,16 @@
-Create CI-CD pipeline	4
-Design	8
-Impact Analysis	2
-Review Design	1
-Coding	27
-Code review	3
-Create unit test	4
-Automation UT	4
-Build	1
-Perform UT	8
-Static Analysis	1
-Deploy to QA	1
-Defect fixes	5
-Release notes for QA	1
+Create CI-CD pipeline		4 hrs
+Design				8 hrs
+Impact Analysis			2 hrs
+Review Design			1 hrs
+Coding				27 hrs
+Code review			3 hrs
+Create unit test		4 hrs
+Automation UT			4 hrs
+Build				1 hrs
+Perform UT			8 hrs
+Static Analysis			1 hrs
+Deploy to QA			1 hrs
+Defect fixes			5 hrs
+Release notes for QA		1 hrs
 	
-	Total = 70
+Total 				70 hrs
