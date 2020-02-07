@@ -12,4 +12,5 @@ Static Analysis	1
 Deploy to QA	1
 Defect fixes	5
 Release notes for QA	1
-	70
+	
+	Total = 70
